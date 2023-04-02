@@ -157,6 +157,51 @@ Minor Concepts:
 4. Call provisions or other embedded options
 5. Secured or unsecured bond
 
+Article: Understanding Bond Valuation
+
+Summary:
+Title: Understanding Bond Valuation
+Major Concept: Bond Characteristics
+Minor Concepts:
+1. Coupon rate
+2. Maturity date
+3. Current price
+ 
+Major Concept: Bond Valuation
+Minor Concepts:
+1. Present value
+2. Yield to maturity
+3. Discount rate
+4. Future value
+5. Intrinsic value
+ 
+Major Concept: Coupon Bond Valuation
+Minor Concepts:
+1. Cash flows
+2. Par value
+3. Annual or semi-annual coupon payment
+4. Yield to maturity (YTM)
+
+Major Concept: Zero-Coupon Bond Valuation
+Minor Concepts:
+1. Face value
+2. Deep discount
+3. Interest earned
+
+Major Concept: Differences between Bond Valuation and Stock Valuation
+Minor Concepts:
+1. Discounted cash flow analysis
+2. Coupon component
+3. Principal component
+
+Major Concept: Factors Affecting Bond Price
+Minor Concepts:
+1. Changes in interest rates
+2. Credit rating
+3. Time to maturity
+4. Call provisions or other embedded options
+5. Secured or unsecured bond
+
 
 Article: ${article}
 Summary:`;
