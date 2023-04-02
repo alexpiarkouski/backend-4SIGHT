@@ -3,6 +3,7 @@
 4. Install the requirements
 
    ```bash
+   cd backend-4SIGHT
    $ npm install
    ```
 
